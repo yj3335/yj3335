@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://yashjain0112.lovable.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yash+Jain+%F0%9F%91%8B;Software+Engineer;Backend+%7C+Data+%7C+AI+Systems" alt="Typing SVG" />
+<a href="https://yashjain0112.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7CC674&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yash+Jain+%F0%9F%91%8B;Software+Engineer;Distributed+Systems+%7C+Data+%7C+AI+Infra" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yashjain0112.lovable.app-black?style=for-the-badge&logo=safari&logoColor=white)](https://yashjain0112.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yashjain0112.dev-0c0c0d?style=for-the-badge&logo=safari&logoColor=white)](https://yashjain0112.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashjain0112-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashjain0112)
 [![Email](https://img.shields.io/badge/Email-yashjain778@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashjain778@gmail.com)
 
@@ -24,7 +24,7 @@ I build backend systems and data infrastructure that has to work at scale. Two y
 
 Now at NYU finishing my Master's in CS, teaching Operating Systems, and spending most of my free time building with LLMs, real-time data pipelines, and distributed systems.
 
-Currently looking for **SWE and ML/AI internships + full-time roles for 2026**.
+🎯 **Seeking:** SDE / ML / AI Engineering — **Summer 2026 internships + Fall 2026 full-time**
 
 ---
 
@@ -84,13 +84,11 @@ Currently looking for **SWE and ML/AI internships + full-time roles for 2026**.
 <tr>
 <td width="50%" valign="top">
 
-**[🌡️ HeatDebt](https://github.com/yj3335/heatdebt)**
+**[🌡️ HeatDebt](https://github.com/yj3335/heatdebt)** &nbsp;·&nbsp; 🏆 *Code4City 2026*
 
 NYC urban heat inequality auditor. Fuses 6 public datasets (Street Tree Census, PLUTO, ACS, Landsat 8 satellite temps) into a DuckDB spatial engine scoring 2,327 census tracts. 3D choropleth map with a local LLM query interface.
 
 `Python` `DuckDB` `Flask` `MapLibre GL` `Ollama` `Mistral 7B`
-
-🏆 **Code4City Hackathon 2026**
 
 </td>
 <td width="50%" valign="top">
@@ -131,9 +129,9 @@ Full-stack restaurant discovery platform with session auth, rate-limited login, 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yj3335&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yj3335&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7cc674&text_color=8b949e&icon_color=7cc674&count_private=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj3335&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj3335&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7cc674&text_color=8b949e&langs_count=6" />
 
 </div>
 
@@ -141,6 +139,6 @@ Full-stack restaurant discovery platform with session auth, rate-limited login, 
 
 <div align="center">
 
-*Open to SWE and ML/AI roles — [let's talk](mailto:yashjain778@gmail.com)*
+*Open to Summer 2026 internships and Fall 2026 full-time — [let's talk](mailto:yashjain778@gmail.com)*
 
 </div>
