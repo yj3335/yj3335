@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://yashjain0112.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7CC674&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yash+Jain+%F0%9F%91%8B;Software+Engineer;Distributed+Systems+%7C+Data+%7C+AI+Infra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7CC674&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Yash+Jain+%F0%9F%91%8B;Software+Engineer;Distributed+Systems+%7C+Data+%7C+AI+Infra" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,11 +20,11 @@
 
 ### About me
 
-I build backend systems and data infrastructure that has to work at scale. Two years at Zscaler shipping production services in Go and Python — microservices handling 300+ parallel queries, pipelines processing a billion daily transactions, observability tooling across 14K+ nodes.
+I build backend systems and data infrastructure that has to work at scale. Two years at Zscaler shipping production services in Go and Python: microservices handling 300+ parallel queries, pipelines processing a billion daily transactions, observability tooling across 14K+ nodes.
 
 Now at NYU finishing my Master's in CS, teaching Operating Systems, and spending most of my free time building with LLMs, real-time data pipelines, and distributed systems.
 
-🎯 **Seeking:** SDE / ML / AI Engineering — **Summer 2026 internships + Fall 2026 full-time**
+🎯 **Seeking:** SDE / ML / AI Engineering roles. Summer 2026 and Fall 2026 internships.
 
 ---
 
@@ -95,7 +95,7 @@ NYC urban heat inequality auditor. Fuses 6 public datasets (Street Tree Census, 
 
 **[💻 CodeCollab](https://github.com/yj3335/codecollab)**
 
-Real-time collaborative code editor with sandboxed multi-language execution. Built the collab backend — Yjs CRDTs + Redis pub/sub for conflict-free concurrent editing across a 5-service monorepo.
+Real-time collaborative code editor with sandboxed multi-language execution. Built the collab backend with Yjs CRDTs and Redis pub/sub for conflict-free concurrent editing across a 5-service monorepo.
 
 `TypeScript` `Yjs` `Redis` `AWS ECS` `AWS CDK` `Gemini`
 
@@ -125,20 +125,17 @@ Full-stack restaurant discovery platform with session auth, rate-limited login, 
 
 ---
 
-### GitHub Stats
+### Recent Highlights
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yj3335&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7cc674&text_color=8b949e&icon_color=7cc674&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj3335&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7cc674&text_color=8b949e&langs_count=6" />
-
-</div>
+- 🎓 **NYU Tandon Merit Scholar**, 3.9 GPA in MS Computer Science.
+- 👨‍🏫 **TA, Intro to Operating Systems** at NYU CSE.
+- 🛠️ **Shipped at Zscaler:** Go/K8s nanolog (300+ parallel queries, 20% latency reduction), Workplace Insights data platform ($4M ARR, 75% runtime cut), observability across 14K+ nodes.
+- 📍 Based in **Brooklyn, NY**. Open to relocation.
 
 ---
 
 <div align="center">
 
-*Open to Summer 2026 internships and Fall 2026 full-time — [let's talk](mailto:yashjain778@gmail.com)*
+*Open to Summer 2026 and Fall 2026 internships. [Let's talk.](mailto:yashjain778@gmail.com)*
 
 </div>
