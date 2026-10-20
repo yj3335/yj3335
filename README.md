@@ -6,7 +6,7 @@
 
 <br/>
 
-**MS Computer Science @ NYU &nbsp;·&nbsp; ex-SDE @ Zscaler &nbsp;·&nbsp; Brooklyn, NY**
+**MS Computer Science @ NYU (May 2027) &nbsp;·&nbsp; ex-SDE @ Zscaler &nbsp;·&nbsp; Brooklyn, NY**
 
 <br/>
 
@@ -20,11 +20,11 @@
 
 ### About me
 
-I build backend systems and data infrastructure that has to work at scale. Two years at Zscaler shipping production services in Go and Python: microservices handling 300+ parallel queries, pipelines processing a billion daily transactions, observability tooling across 14K+ nodes.
+I build backend systems and data infrastructure that has to work at scale. Two years at Zscaler shipping production services in Go and Python: microservices handling 300+ parallel queries, data platforms over 300B+ daily transactions, observability tooling across 14K+ nodes.
 
 Now at NYU finishing my Master's in CS, teaching Operating Systems, and spending most of my free time building with LLMs, real-time data pipelines, and distributed systems.
 
-🎯 **Seeking:** SDE / ML / AI Engineering roles. Summer 2026 and Fall 2026 internships.
+🎯 **Seeking:** New grad 2027 SWE roles in backend, distributed systems, and AI infrastructure (graduating May 2027). Also open to Winter 2027 internships.
 
 ---
 
@@ -39,24 +39,27 @@ Now at NYU finishing my Master's in CS, teaching Operating Systems, and spending
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Data**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **Cloud & Infra**
@@ -65,11 +68,15 @@ Now at NYU finishing my Master's in CS, teaching Operating Systems, and spending
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **AI / ML**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D4621E?style=flat-square&logo=anthropic&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
@@ -84,13 +91,24 @@ Now at NYU finishing my Master's in CS, teaching Operating Systems, and spending
 <tr>
 <td width="50%" valign="top">
 
-**[🌡️ HeatDebt](https://github.com/yj3335/heatdebt)** &nbsp;·&nbsp; 🏆 *Code4City 2026*
+**[🚪 LLM Gateway](https://github.com/yj3335/llm-gateway)**
 
-NYC urban heat inequality auditor. Fuses 6 public datasets (Street Tree Census, PLUTO, ACS, Landsat 8 satellite temps) into a DuckDB spatial engine scoring 2,327 census tracts. 3D choropleth map with a local LLM query interface.
+OpenAI-compatible LLM gateway in Go with a two-tier Redis + pgvector HNSW semantic cache, Redis Lua rate limiting, circuit-breaker failover, and Responsible-AI guardrails (PII redaction, prompt-injection blocking). On a real Ollama run, 53.9% of 1,000 requests were served from cache with 0 wrong across 380 verified hits and 99.79% lower p50 latency (16 ms vs 7.8 s). Recovered from 39/39 injected faults.
 
-`Python` `DuckDB` `Flask` `MapLibre GL` `Ollama` `Mistral 7B`
+`Go` `Redis` `PostgreSQL` `pgvector` `Kubernetes` `Next.js` `Ollama`
 
 </td>
+<td width="50%" valign="top">
+
+**[🏎️ PitWall AI](https://github.com/yj3335/pitwall-ai)**
+
+F1 telemetry and hybrid-RAG engine. Go + Kafka (KRaft) pipeline over 200K real OpenF1 events at 903K events/s, with 32,784 concurrent DuckDB queries at 1.06 ms p50. A LangGraph strategy agent with Qdrant hybrid RAG (0.975 Recall@3) reaches 100% FIA compliance vs 67% single-pass.
+
+`Go` `Kafka` `DuckDB` `Qdrant` `LangGraph` `MCP` `Next.js`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[💻 CodeCollab](https://github.com/yj3335/codecollab)**
@@ -98,6 +116,15 @@ NYC urban heat inequality auditor. Fuses 6 public datasets (Street Tree Census, 
 Real-time collaborative code editor with sandboxed multi-language execution. Built the collab backend with Yjs CRDTs and Redis pub/sub for conflict-free concurrent editing across a 5-service monorepo.
 
 `TypeScript` `Yjs` `Redis` `AWS ECS` `AWS CDK` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+**[🩺 Zipsick](https://github.com/yj3335/zipsick)**
+
+Autonomous public-health signal and anomaly agent. An observe, extract, store, score, verify, publish pipeline ingests community health signals and NYC 311 records into ClickHouse, flags rolling 90-day Z-score anomalies, cross-checks them against privacy-scoped FHIR aggregates (zero PII exposure), and alerts through Datadog and Slack.
+
+`Python` `FastAPI` `ClickHouse` `FHIR` `Datadog`
 
 </td>
 </tr>
@@ -113,11 +140,11 @@ Real-time MTA congestion pipeline using Lambda architecture. Designed the dual-s
 </td>
 <td width="50%" valign="top">
 
-**[🍽️ MealSwipe](https://github.com/gcivil-nyu-org/team2-mon-spring26)**
+**[🌡️ HeatDebt](https://github.com/yj3335/heatdebt)** &nbsp;·&nbsp; 🏆 *Code4City 2026*
 
-Full-stack restaurant discovery platform with session auth, rate-limited login, and automated AWS deployment. Travis CI/CD pipeline with Black, flake8, and coverage reporting.
+NYC urban heat inequality auditor. Fuses 6 public datasets (Street Tree Census, PLUTO, ACS, Landsat 8 satellite temps) into a DuckDB spatial engine scoring 2,327 census tracts. 3D choropleth map with a local LLM query interface.
 
-`Django` `React` `TypeScript` `AWS Elastic Beanstalk` `Travis CI`
+`Python` `DuckDB` `Flask` `MapLibre GL` `Ollama` `Mistral 7B`
 
 </td>
 </tr>
@@ -136,6 +163,6 @@ Full-stack restaurant discovery platform with session auth, rate-limited login, 
 
 <div align="center">
 
-*Open to Summer 2026 and Fall 2026 internships. [Let's talk.](mailto:yashjain778@gmail.com)*
+*Looking for new grad 2027 roles. [Let's talk.](mailto:yashjain778@gmail.com)*
 
 </div>
